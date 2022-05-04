@@ -1,9 +1,13 @@
 # university-search
+This application allows user to search for universities all around the globe. User can search by selecting a country and by writing a keyword or part of it that matches different university names. 
 
-After downloading, simply go to the root directory of the project and execute:
+#### Declaration
+Following 2 free APIs were used in this app:
+- https://restcountries.com/
+- https://github.com/Hipo/university-domains-list-api
 
-yarn start
+## How to run?
+After downloading, simply go to the root directory of the project and execute any of the following based on available package and preference:
 
-or 
-
-npm start
+- yarn start
+- npm start
